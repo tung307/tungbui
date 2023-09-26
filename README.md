@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bui Thanh Tung</h1>
 <h3 align="center">A Fresher - Entry Level - Starter in Data Analyst</h3>
-img align="right" alt="Coding" width="400" src="
-- 🌱 I’m currently learning **SQL, Python, PowerBI**https://www.lambdatest.com/resources/images/news24.gif"
+
+img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"
+- 🌱 I’m currently learning **SQL, Python, PowerBI**
 
 - 💬 Ask me about **SQL, Python, PowerBI**
 
