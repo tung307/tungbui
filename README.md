@@ -6,7 +6,7 @@ img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resou
 
 - 💬 Ask me about **SQL, Python, PowerBI**
 
-- 📫 How to reach me **thtung307@gmail.co,**
+- 📫 How to reach me **thtung307@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
